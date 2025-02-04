@@ -58,12 +58,12 @@ body{
 .name{
     display: flex;
     flex-direction: column;
-    justify-content: space-evenly;
+    /* justify-content: space-evenly; */
     /* width: 60%; */
     padding: 100px;
     height: 600px;
     text-align: start;
-    line-height: 1ch;
+    /* line-height: 1.5ch; */
 }
 
 .name h2{
@@ -87,7 +87,7 @@ body{
 
 #location {
     font-size: 20px;
-    line-height: 3ch;
+    /* line-height: 3ch; */
     color: rgb(255, 255, 255);
     font-weight: 600;
 }
